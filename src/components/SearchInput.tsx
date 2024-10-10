@@ -1,7 +1,8 @@
 import { useState } from "react";
-import { 
-    //Form, 
-    useNavigate } from "react-router-dom";
+import {
+    //Form,
+    useNavigate,
+} from "react-router-dom";
 
 export default function SearchInput() {
     // Traditional programmatic routing
