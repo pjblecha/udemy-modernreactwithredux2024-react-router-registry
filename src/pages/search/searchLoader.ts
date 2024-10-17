@@ -6,7 +6,7 @@ export interface SearchLoaderResult {
 }
 
 export async function searchLoader({
-    request,
+    request
 }: {
     request: Request;
 }): Promise<SearchLoaderResult> {
